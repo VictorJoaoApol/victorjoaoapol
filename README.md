@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hello! I'm João Victor, hope you're well! (◔◡◔)👍
 
-<!--
-**VictorJoaoApol/victorjoaoapol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a system development student who likes Python! 
 
-Here are some ideas to get you started:
+## 📖 Things I'm learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🐍 Python
+
+- Project structure
+- Web apps with `streamlit`
+- Automated testing with `pytest`
+- Different database services (MySQL, SQLite, futurely MongoDB)
+
+### :octocat: GitHub
+
+- Standardized commits
+- Branch usage (`main`, `dev`, `feature`)
+- Proper writing of READMEs
+
+## ⏩ Next things I'll learn
+
+### 🌐 Web development
+
+- Backend with PHP
+- Frontend with HTML, CSS and JavaScript
+
+### 🧠 AI Engineering
+
+- Implementing AI services using [Azure](https://azure.microsoft.com/)
+
+## ⚙️ Currently working on
+
+### 🗣️ Streamlit Social Media
+
+- Simple social media app made with `streamlit` (Python)
+- Features database using MySQL and Docker
+- **WIP!**
+
+<div align=center>
+<img src="https://github-readme-stats.vercel.app/api?username=victorjoaoapol&theme=tokyonight" />
+</div>

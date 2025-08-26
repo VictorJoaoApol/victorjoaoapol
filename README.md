@@ -28,14 +28,6 @@ I'm a system development student who likes Python!
 
 - Implementing AI services using [Azure](https://azure.microsoft.com/)
 
-## ⚙️ Currently working on
-
-### 🗣️ Streamlit Social Media
-
-- Simple social media app made with `streamlit` (Python)
-- Features database using MySQL and Docker
-- **WIP!**
-
 <div align=center>
 <img src="https://github-readme-stats.vercel.app/api?username=victorjoaoapol&theme=tokyonight" />
 </div>

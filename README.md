@@ -17,12 +17,21 @@ I'm a system development student who likes Python!
 - Branch usage (`main`, `dev`, `feature`)
 - Proper writing of READMEs
 
+### 🐘PHP
+
+- If/else
+- Operators
+- Type conversion
+- Variables and constants
+
 ## ⏩ Next things I'll learn
 
-### 🌐 Web development
+### 🌐 Web Development
 
-- Backend with PHP
-- Frontend with HTML, CSS and JavaScript
+- Web design with Figma
+- HTML5
+- CSS
+- Javascript
 
 ### 🧠 AI Engineering
 

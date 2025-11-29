@@ -1,41 +1,54 @@
-# Hello! I'm João Victor, hope you're well! (◔◡◔)👍
+# Hello! I'm João Victor!
 
-I'm a system development student who likes Python! 
+I hope you're well! I'm a system development student who likes coding! (◔◡◔)👍
 
 ## 📖 Things I'm learning
 
-### 🐍 Python
+### 📲 Frontend
 
-- Project structure
-- Web apps with `streamlit`
-- Automated testing with `pytest`
-- Different database services (MySQL, SQLite, futurely MongoDB)
+- Static web pages (HTML/CSS)
+- Organizing frontend files
+- Designing webpages with Figma
+- Code analysis
+
+### 🏗️ Software Project
+
+- Agile manifesto + methodologies (Scrum, Kanban and XP)
+- Working in teams with GitHub
+- Software quality standards
 
 ### :octocat: GitHub
 
-- Standardized commits
-- Branch usage (`main`, `dev`, `feature`)
+- Using git bash commands
+- Working with GitHub Projects' Kanban feature
 - Proper writing of READMEs
 
-### 🐘PHP
+### 🗃️ Databases
 
-- If/else
-- Operators
-- Type conversion
-- Variables and constants
+- Different DBMSs
+- DCL (Creating/Deleting users, granting/revoking permissions)
+- DDL (Creating databases, tables and indexes)
+- DML (Inserting, reading, updating and removing data)
 
-## ⏩ Next things I'll learn
+### 🐘 PHP
+
+- Form handling
+- Input validation/cleaning
+- Database connection (MySQL)
+
+## ⏩ Things I'll learn (in the furture)
 
 ### 🌐 Web Development
 
-- Web design with Figma
-- HTML5
-- CSS
-- Javascript
+- Animated frontend with JavaScript
+- Managing user session
+- Fully functional login systems
 
-### 🧠 AI Engineering
+### ⚙️ Software development
 
-- Implementing AI services using [Azure](https://azure.microsoft.com/)
+- Software tests
+- IoT
+- Mobile Development
 
 <div align=center>
 <img src="https://github-readme-stats.vercel.app/api?username=victorjoaoapol&theme=tokyonight" />
